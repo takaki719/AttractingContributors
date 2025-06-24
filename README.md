@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please tell me your charming point!
 
 # List of place
-- mamemame saisai
-- Gusto
+- Mos Burger
