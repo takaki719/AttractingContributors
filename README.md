@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# When is your birthday?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of birthdays
+- 04/12
