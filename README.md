@@ -2,4 +2,6 @@
 
 # List of place
 - MosBurger
+- McDonald’s
 - Shake Shack
+
