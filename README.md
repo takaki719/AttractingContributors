@@ -5,3 +5,4 @@
 - Burger King
 - McDonald’s
 - Shake Shack
+- McDonald’s
