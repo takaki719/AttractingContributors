@@ -12,6 +12,6 @@ What’s your favorite anime or which one would you recommend?
 5. spyXfamily
 6. CLANNAD
 7. MOBILE SUIT GUNDAM UNICORN
-8. Frieren: Beyond Journey's End
-9. 
+8. My Hero Academia
+9. Frieren: Beyond Journey's End
 10.
