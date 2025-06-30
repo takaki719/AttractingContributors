@@ -1,5 +1,13 @@
-# test Please indicate your favourite places to eat near NAIST.
+# 好きな漫画は何ですか？ / What is your favorite Manga?
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of Manga
+- ワンピース
+- ナルト
+- 進撃の巨人
+- 葬送のフリーレン
+- メダリスト
+- チ。
+- ケントゥリア
+- 嘘食い
+- 寄生獣
+- ハイパーインフレーション
