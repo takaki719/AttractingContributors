@@ -4,5 +4,5 @@
 
 # List of artist
 - サカナクション
-- super beaver
-- LE SSERAFIM
+- MyGO!!!!!
+- BUMP OF CHICKEN
