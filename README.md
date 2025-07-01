@@ -3,4 +3,5 @@
 # List of Action
 - 世界一周
 - チャリで東京まで
+- バンジージャンプ/bungee jump 
 - To see Aurora
