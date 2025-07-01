@@ -2,4 +2,9 @@
 
 # List of place
 - tuna
+- マグロ
+- タイ
+- yellowtail
+- 鯵（アジ）
+- はまち
 
