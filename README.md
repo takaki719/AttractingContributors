@@ -6,3 +6,4 @@
 - McDonald’s
 - Shake Shack
 - McDonald’s
+- MosBurger
