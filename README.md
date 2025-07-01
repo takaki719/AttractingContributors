@@ -14,3 +14,4 @@ OSSへの**興味（interest）**を呼びかけるプロジェクトです！
 - 84
 - 21
 - 6 https://github.com/niimuraxa/AttractingContributors
+- 23
