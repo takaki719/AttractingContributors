@@ -7,3 +7,4 @@
 - To see Aurora
 - climb chomolungma
 - 寝台列車旅行
+- live abroad
