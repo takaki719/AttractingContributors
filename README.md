@@ -9,3 +9,5 @@
 - MosBurger
 - BurgerKing
 - Burger King
+- Lucky Pierrot
+
