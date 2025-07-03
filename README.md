@@ -7,3 +7,4 @@
 - Shake Shack
 - McDonald’s
 - MosBurger
+- BurgerKing
