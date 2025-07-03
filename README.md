@@ -6,3 +6,4 @@
 - Ishikawa Yuki
 - LeBron James
 - Takefusa Kubo
+- Wataru Endo
