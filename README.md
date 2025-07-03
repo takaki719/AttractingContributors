@@ -4,3 +4,4 @@
 - Ichiro Suzuki
 - Hideki Matsui
 - LeBron James
+- Takefusa Kubo
