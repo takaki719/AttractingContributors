@@ -6,3 +6,5 @@ Recently, I'm really into **Måneskin**.
 
 - Måneskin
 - Kalafina
+- Jamiroquai
+- Bruno Mars
