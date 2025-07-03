@@ -2,3 +2,14 @@
 
 # List of place
 - Liverpool FC
+- Real Madrid
+- Golden State Warriors
+- Italy women's national volleyball team（Not fans)
+- カープ
+- sakuraknights
+- 阪神タイガース
+- 中日ドラゴンズ
+- DeNAベイスターズ
+- Los Angeles Clippers
+- ドジャース/Dodgers(MLB)
+- Fukuoka SoftBank Hawks
