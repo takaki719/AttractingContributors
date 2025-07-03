@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Who is your favorite athlete?
 
 # List of place
-- mamemame saisai
-- Gusto
+- Ichiro Suzuki
+- Hideki Matsui
