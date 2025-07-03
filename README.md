@@ -5,5 +5,6 @@ Recently, I'm really into **Måneskin**.
 # List of Artists
 
 - Måneskin
+- Kalafina
 - Jamiroquai
 - Bruno Mars
