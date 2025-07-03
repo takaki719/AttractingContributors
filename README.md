@@ -1,5 +1,5 @@
 # Who is your favorite athlete?
 
-# List of place
+# List of athlete
 - Ichiro Suzuki
 - Hideki Matsui
