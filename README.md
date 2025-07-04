@@ -14,3 +14,4 @@
 - ドジャース/Dodgers(MLB)
 - Fukuoka SoftBank Hawks
 - Ivory Coast
+- デトロイトタイガース(MLB)
