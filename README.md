@@ -7,3 +7,4 @@
 - LeBron James
 - Takefusa Kubo
 - Wataru Endo
+- Masataka Yoshida
