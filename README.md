@@ -8,3 +8,4 @@
 - Takefusa Kubo
 - Wataru Endo
 - Muhammad Ali
+- Masataka Yoshida
