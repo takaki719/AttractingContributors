@@ -10,3 +10,4 @@
 - Muhammad Ali
 - Masataka Yoshida
 - Quan Hongchan
+- Shohei Ohtani
