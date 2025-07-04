@@ -9,3 +9,4 @@
 - Wataru Endo
 - Muhammad Ali
 - Masataka Yoshida
+- Quan Hongchan
